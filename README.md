@@ -1,8 +1,8 @@
 # Retrieve Data From Api with Requirement
 
-a native Android app in Kotlin that retrieves unorganized data from Api, then organize it due to Requirements
+- a native Android app in Kotlin that retrieves unorganized data from Api, then organize it due to Requirements
 
-i have also made a java one here is the link: https://github.com/its-Moha/Fetch-Data-From-API-With-Requirement
+- i have also made a java one here is the link: https://github.com/its-Moha/Fetch-Data-From-API-With-Requirement
 
 # 📌Requirements
 

@@ -17,6 +17,7 @@
  - Retrofit
  - coroutines
  - LiveData
+ - ViewBinding
  - Screen State
  - loading Screen
  - Recyclerview

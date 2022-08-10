@@ -17,6 +17,7 @@
  - Retrofit
  - coroutines
  - LiveData
+ - Moshi
  - ViewBinding
  - Screen State
  - loading Screen

@@ -32,10 +32,10 @@
   
   -After
   <div align="start">
-  <img src="https://user-images.githubusercontent.com/75988940/184507748-0fa50ea3-d066-467d-946d-09a0dd1aded6.jpg" width="210x">
-  <img src="https://user-images.githubusercontent.com/75988940/184507744-ca013e48-5a19-4c2c-956b-e8c8cb1244bc.jpg" width="210px">
-  <img src="https://user-images.githubusercontent.com/75988940/184507760-33c6ced7-2a64-4eb3-ad6d-d3f084b3181a.jpg" width="210px">
-  <img src="https://user-images.githubusercontent.com/75988940/184507765-ab3e62bc-f543-4e5c-a9e1-e9c51b7b903f.jpg" width="210px">
+  <img src="https://user-images.githubusercontent.com/75988940/184507748-0fa50ea3-d066-467d-946d-09a0dd1aded6.jpg" width="200x">
+  <img src="https://user-images.githubusercontent.com/75988940/184507744-ca013e48-5a19-4c2c-956b-e8c8cb1244bc.jpg" width="200px">
+  <img src="https://user-images.githubusercontent.com/75988940/184507760-33c6ced7-2a64-4eb3-ad6d-d3f084b3181a.jpg" width="200px">
+  <img src="https://user-images.githubusercontent.com/75988940/184507765-ab3e62bc-f543-4e5c-a9e1-e9c51b7b903f.jpg" width="200px">
   </div>
   
  - Video

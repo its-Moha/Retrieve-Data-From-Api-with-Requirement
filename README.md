@@ -22,6 +22,23 @@
  - Screen State
  - loading Screen
  - Recyclerview
- - Item CardView
+ - Item CardView 
 
  # 📷Screenshots
+ 
+  -Before
+  
+  ![5](https://user-images.githubusercontent.com/75988940/184507749-c0b8b39b-89ea-4ac1-aa06-9295778f4c56.PNG)
+  
+  -After
+  <div align="start">
+  <img src="https://user-images.githubusercontent.com/75988940/184507748-0fa50ea3-d066-467d-946d-09a0dd1aded6.jpg" width="230x">
+  <img src="https://user-images.githubusercontent.com/75988940/184507744-ca013e48-5a19-4c2c-956b-e8c8cb1244bc.jpg" width="230px">
+  <img src="https://user-images.githubusercontent.com/75988940/184507760-33c6ced7-2a64-4eb3-ad6d-d3f084b3181a.jpg" width="230px">
+  <img src="https://user-images.githubusercontent.com/75988940/184507765-ab3e62bc-f543-4e5c-a9e1-e9c51b7b903f.jpg" width="230px">
+  </div>
+  
+ - Video
+ 
+https://user-images.githubusercontent.com/75988940/184507751-69543916-baf8-4cc1-b8dd-2c280d41bf95.mp4
+

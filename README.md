@@ -38,8 +38,9 @@
   <img src="https://user-images.githubusercontent.com/75988940/184507765-ab3e62bc-f543-4e5c-a9e1-e9c51b7b903f.jpg" width="200px">
   </div>
   
- - Video
- 
+  
+# Video
+
  To view the screenshot as a video, click the play button down below.
  
 https://user-images.githubusercontent.com/75988940/184507751-69543916-baf8-4cc1-b8dd-2c280d41bf95.mp4

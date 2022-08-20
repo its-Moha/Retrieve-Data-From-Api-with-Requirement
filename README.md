@@ -40,5 +40,7 @@
   
  - Video
  
+ To view the screenshot as a video, click the play button down below.
+ 
 https://user-images.githubusercontent.com/75988940/184507751-69543916-baf8-4cc1-b8dd-2c280d41bf95.mp4
 
